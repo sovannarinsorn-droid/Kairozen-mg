@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.py[cod]
+venv/
+*.log
+*.mp3
+*.mp4
+*.ogg
+*.wav
+*.mkv
+*.webm
+*.srt
+.DS_Store
